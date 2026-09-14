@@ -13,7 +13,7 @@
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
   "nickNameBot": "⎯͢⎯⃝♛ 𝑩𝑬𝑨𝑼𝑻𝑰𝑭𝑼𝑳 𝑸𝑼𝑬𝑬𝑵 ♛",
-  "prefix": ".",
+  "prefix": "-",
   "noPrefix": {
     "enable": true,
     "notes": "true = only bot admins can use commands without prefix | false = everyone must use prefix"
